@@ -5,111 +5,111 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/accordion-bundle"
+            "url": "git@github.com:ohmediaorg/accordion-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/alert-bundle"
+            "url": "git@github.com:ohmediaorg/alert-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/antispam-bundle"
+            "url": "git@github.com:ohmediaorg/antispam-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/backend-bundle"
+            "url": "git@github.com:ohmediaorg/backend-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/bootstrap-bundle"
+            "url": "git@github.com:ohmediaorg/bootstrap-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/cleanup-bundle"
+            "url": "git@github.com:ohmediaorg/cleanup-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/email-bundle"
+            "url": "git@github.com:ohmediaorg/email-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/event-bundle"
+            "url": "git@github.com:ohmediaorg/event-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/file-bundle"
+            "url": "git@github.com:ohmediaorg/file-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/form-bundle"
+            "url": "git@github.com:ohmediaorg/form-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/global-content-bundle"
+            "url": "git@github.com:ohmediaorg/global-content-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/location-bundle"
+            "url": "git@github.com:ohmediaorg/location-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/logo-bundle"
+            "url": "git@github.com:ohmediaorg/logo-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/meta-bundle"
+            "url": "git@github.com:ohmediaorg/meta-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/news-bundle"
+            "url": "git@github.com:ohmediaorg/news-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/page-bundle"
+            "url": "git@github.com:ohmediaorg/page-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/photo-bundle"
+            "url": "git@github.com:ohmediaorg/photo-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/script-bundle"
+            "url": "git@github.com:ohmediaorg/script-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/security-bundle"
+            "url": "git@github.com:ohmediaorg/security-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/settings-bundle"
+            "url": "git@github.com:ohmediaorg/settings-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/stripe-bundle"
+            "url": "git@github.com:ohmediaorg/stripe-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/team-bundle"
+            "url": "git@github.com:ohmediaorg/team-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/testimonial-bundle"
+            "url": "git@github.com:ohmediaorg/testimonial-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/timezone-bundle"
+            "url": "git@github.com:ohmediaorg/timezone-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/utility-bundle"
+            "url": "git@github.com:ohmediaorg/utility-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/video-bundle"
+            "url": "git@github.com:ohmediaorg/video-bundle.git"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/ohmediaorg/wysiwyg-bundle"
+            "url": "git@github.com:ohmediaorg/wysiwyg-bundle.git"
         }
     ],
     "require-all": true
