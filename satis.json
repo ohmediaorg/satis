@@ -1,5 +1,5 @@
 {
-    "name": "ohmediaorg/oh-satis",
+    "name": "ohmediaorg/satis",
     "homepage": "https://satis.ohcms.com",
     "output-dir": "./public",
     "repositories": [
