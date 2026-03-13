@@ -140,6 +140,7 @@ class BuildCommand extends BaseCommand
                 }
             }
         } else {
+            $configFile = __DIR__.'/../../../'.$configFile;
             $file = new JsonFile($configFile);
             if (!$file->exists()) {
                 $output->writeln('<error>File not found: ' . $configFile . '</error>');
