@@ -1,0 +1,116 @@
+{
+    "name": "ohmediaorg/oh-satis",
+    "homepage": "https://satis.ohcms.com",
+    "output-dir": "./public",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/accordion-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/alert-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/antispam-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/backend-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/bootstrap-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/cleanup-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/email-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/event-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/file-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/form-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/global-content-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/location-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/logo-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/meta-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/news-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/page-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/photo-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/script-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/security-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/settings-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/stripe-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/team-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/testimonial-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/timezone-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/utility-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/video-bundle"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ohmediaorg/wysiwyg-bundle"
+        }
+    ],
+    "require-all": true
+}
