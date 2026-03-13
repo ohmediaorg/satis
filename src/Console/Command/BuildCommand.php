@@ -188,6 +188,8 @@ class BuildCommand extends BaseCommand
             throw new \InvalidArgumentException('The output dir must be specified as second argument or be configured inside ' . $input->getArgument('file'));
         }
 
+        $outputDir = __DIR__.'/../../../'.$outputDir;
+
         $homepage = getenv('SATIS_HOMEPAGE');
         if (false !== $homepage) {
             $config['homepage'] = $homepage;
